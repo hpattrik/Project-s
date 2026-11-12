@@ -1,5 +1,5 @@
 # Project-s
-A simple, modern-looking calculator application built using C# and Windows Presentation Foundation (WPF). The application provides basic arithmetic operations through an interactive graphical user interface, featuring a custom Polish Cow GIF background.
+A simple, modern-looking calculator application built using C# and Windows Presentation Foundation (WPF). The application provides basic arithmetic operations through an interactive graphical user interface, featuring a custom Polish Cow background.
 
   Features:
 - Basic Arithmetic Operations
